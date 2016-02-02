@@ -1,1 +1,1 @@
-../../drinks/Mint Julep.md
+../../Drinks/Mint Julep.md

@@ -1,1 +1,1 @@
-../../drinks/Honeymoon Cocktail.md
+../../Drinks/Honeymoon Cocktail.md

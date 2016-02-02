@@ -1,1 +1,1 @@
-../../drinks/Jersey Julep.md
+../../Drinks/Jersey Julep.md
