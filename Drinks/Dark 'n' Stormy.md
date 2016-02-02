@@ -9,8 +9,8 @@
 
 ## Instructions
 
-Glassware: Highball
-Ice: Cubes in glass
-Garnish: Lime wedge
+- Glassware: Highball
+- Ice: Cubes in glass
+- Garnish: Lime wedge
 
 Build the drink in a highball, first rum and lime juice, then ice, then ginger beer. Stir gently, garnish with the lime wedge, and serve.

@@ -9,8 +9,8 @@
 
 ## Instructions
 
-Glassware: Sherry or Martini glass
-Ice: Cubes to stir, none to serve
-Garnish: Orange twist
+- Glassware: Sherry or Martini glass
+- Ice: Cubes to stir, none to serve
+- Garnish: Orange twist
 
 Add the ingredients to a mixing glass with ice, starting with the Fernet Branca. Stir slowly and gently, then strain into a chilled sherry or martini glass. Garnish with an orange twist.
