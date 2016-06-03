@@ -4,7 +4,7 @@ Hugo Ensslin, Recipes for Mixed Drinks, 1916
 
 ## Ingredients
 
-- 60 ml Laird's Bonded Apple brandy
+- 60 ml Laird's bonded apple brandy
 - 15 ml Grand Marnier Triple Sec
 - 15 ml Bénédictine
 - 15 ml Lemon Juice

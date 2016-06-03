@@ -5,7 +5,7 @@ Courtesy of Julie Reiner; Clover Club; Brooklyn
 ## Ingredients
 
 - 2 oz  Laird's bonded apple brandy
-- 1/2 oz  Maple syrup
+- 1 barspoon Maple syrup
 - 10 mint leaves
 - 3 mint sprigs
 - 3 apple slices
